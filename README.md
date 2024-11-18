@@ -1,4 +1,4 @@
-# LeetCode Solutions with Version Control
+# Version Controlled LeetCode Solutions in Java
 
 This repository showcases my DevOps skills by combining version control with Java programming. Each commit represents a solution to a LeetCode challenge, and this repository is used to practice simple Git commands as I work through each problem.
 
@@ -6,7 +6,7 @@ This repository showcases my DevOps skills by combining version control with Jav
 
 1. Clone this repository:
     ```
-    git clone https://github.com/your-username/LeetCode-Solutions-Version-Control.git
+    git clone https://github.com/your-username/Version-Controlled-LeetCode-Solutions-in-Java.git
     ```
 
 2. For each LeetCode problem I solve, I delete and update the `src/Solution.java` file to contain my new solution.
@@ -30,10 +30,6 @@ The Java solution for the Two Sum problem is written in the `src/Solution.java` 
 
 - Java 11 or higher
 - Git
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
